@@ -1,5 +1,5 @@
 {
-  "version": 2,
+  "version": 3,
   "download_url": "https://github.com/joystcorp/myapp-updates/releases/download/v2.0/app-debug.apk",
   "force_update": true,
   "changelog": "- New features added\n- Bug fixes\n- Performance improvements"
