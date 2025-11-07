@@ -1,0 +1,6 @@
+{
+  "version": 2,
+  "download_url": "https://your-server.com/app_v2.apk",
+  "force_update": true,
+  "changelog": "- New features added\n- Bug fixes\n- Performance improvements"
+}
